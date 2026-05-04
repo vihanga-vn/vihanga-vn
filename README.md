@@ -1,5 +1,14 @@
 
 ![Web-developer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
+
+<p align="center">
+	<a href="https://github.com/vihanga-vn">
+		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="vihanga-vn" />
+	</a>
+	<a href="https://github.com/vihanga-vn">
+		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="vihanga-vn" />
+	</a>
+</p>
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -55,7 +64,29 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)]() 
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)]()
 
+-----
 
+<br/>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Web+Developer;Video+Editor;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
 
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vihanga-vn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vihanga-vn&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 -----
+
+<p align="center">
+  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vihanga-vn&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
+</p>
+
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=vihanga-vn&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
