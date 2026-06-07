@@ -14,7 +14,8 @@
 
 ### Hello! I'm Vihanga Nipun a Full Stack Developer from Sri Lanka.
 
-### Portfolio: 
+### Portfolio:
+🌐 [Visit My Portfolio](https://portfolio-one-lilac-holyvrkkdz.vercel.app/#contact)
 
 <a href="">
   <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -89,4 +90,3 @@
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
 </p>
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=vihanga-vn&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
