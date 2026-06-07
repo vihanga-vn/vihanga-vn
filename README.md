@@ -15,7 +15,7 @@
 ### Hello! I'm Vihanga Nipun a Full Stack Developer from Sri Lanka.
 
 ### Portfolio:
-🌐 [Visit My Portfolio](https://portfolio-one-lilac-holyvrkkdz.vercel.app/#contact)
+🌐 [Visit My Portfolio](https://portfolio-one-lilac-holyvrkkdz.vercel.app/)
 
 <a href="">
   <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
